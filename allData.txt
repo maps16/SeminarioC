@@ -1,5 +1,5 @@
 
-72274 TUS Tucson Observations at 12Z 01 Apr 2016
+72274  01 Apr 2016
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -175,7 +175,7 @@ Pres [hPa] of the Lifted Condensation Level: 713.89
 Precipitable water [mm] for entire sounding: 9.13
 
  
- 72274 TUS Tucson Observations at 12Z 02 Apr 2016 
+ 72274     02 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -344,7 +344,7 @@ Pres [hPa] of the Lifted Condensation Level: 696.14
 Precipitable water [mm] for entire sounding: 9.20
 
  
- 72274 TUS Tucson Observations at 12Z 03 Apr 2016 
+ 72274     03 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -498,7 +498,7 @@ Pres [hPa] of the Lifted Condensation Level: 617.65
 Precipitable water [mm] for entire sounding: 6.14
 
  
- 72274 TUS Tucson Observations at 12Z 04 Apr 2016 
+ 72274     04 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -657,7 +657,7 @@ Pres [hPa] of the Lifted Condensation Level: 604.06
 Precipitable water [mm] for entire sounding: 6.33
 
 <BODY BGCOLOR=white>
-Can't get 72274 TUS Tucson Observations at 12Z 05 Apr 2016.
+Can't get 72274     05 Apr 2016.
 
 <P>
 <FORM>
@@ -685,7 +685,7 @@ window.focus();
 </BODY>
 </HTML>
  
- 72274 TUS Tucson Observations at 12Z 06 Apr 2016 
+ 72274     06 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -852,7 +852,7 @@ Pres [hPa] of the Lifted Condensation Level: 604.04
 Precipitable water [mm] for entire sounding: 6.88
 
  
- 72274 TUS Tucson Observations at 12Z 07 Apr 2016 
+ 72274     07 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -1018,7 +1018,7 @@ Pres [hPa] of the Lifted Condensation Level: 602.32
 Precipitable water [mm] for entire sounding: 13.60
 
  
- 72274 TUS Tucson Observations at 12Z 08 Apr 2016 
+ 72274     08 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -1214,7 +1214,7 @@ Pres [hPa] of the Lifted Condensation Level: 851.75
 Precipitable water [mm] for entire sounding: 21.95
 
  
- 72274 TUS Tucson Observations at 12Z 09 Apr 2016 
+ 72274     09 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -1390,7 +1390,7 @@ Pres [hPa] of the Lifted Condensation Level: 839.94
 Precipitable water [mm] for entire sounding: 16.70
 
  
- 72274 TUS Tucson Observations at 12Z 10 Apr 2016 
+ 72274     10 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -1558,7 +1558,7 @@ Pres [hPa] of the Lifted Condensation Level: 726.58
 Precipitable water [mm] for entire sounding: 12.46
 
  
- 72274 TUS Tucson Observations at 12Z 11 Apr 2016 
+ 72274     11 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -1726,7 +1726,7 @@ Pres [hPa] of the Lifted Condensation Level: 861.91
 Precipitable water [mm] for entire sounding: 15.25
 
  
- 72274 TUS Tucson Observations at 12Z 12 Apr 2016 
+ 72274     12 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -1901,7 +1901,7 @@ Pres [hPa] of the Lifted Condensation Level: 799.92
 Precipitable water [mm] for entire sounding: 18.95
 
  
- 72274 TUS Tucson Observations at 12Z 13 Apr 2016 
+ 72274     13 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -2071,7 +2071,7 @@ Pres [hPa] of the Lifted Condensation Level: 768.57
 Precipitable water [mm] for entire sounding: 13.17
 
  
- 72274 TUS Tucson Observations at 12Z 14 Apr 2016 
+ 72274     14 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -2223,7 +2223,7 @@ Pres [hPa] of the Lifted Condensation Level: 712.38
 Precipitable water [mm] for entire sounding: 12.24
 
  
- 72274 TUS Tucson Observations at 12Z 15 Apr 2016 
+ 72274     15 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -2390,7 +2390,7 @@ Pres [hPa] of the Lifted Condensation Level: 656.05
 Precipitable water [mm] for entire sounding: 10.76
 
  
- 72274 TUS Tucson Observations at 12Z 16 Apr 2016 
+ 72274     16 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -2564,7 +2564,7 @@ Pres [hPa] of the Lifted Condensation Level: 698.63
 Precipitable water [mm] for entire sounding: 9.06
 
  
- 72274 TUS Tucson Observations at 12Z 17 Apr 2016 
+ 72274     17 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -2722,7 +2722,7 @@ Pres [hPa] of the Lifted Condensation Level: 681.93
 Precipitable water [mm] for entire sounding: 9.78
 
  
- 72274 TUS Tucson Observations at 12Z 18 Apr 2016 
+ 72274     18 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -2874,7 +2874,7 @@ Pres [hPa] of the Lifted Condensation Level: 675.11
 Precipitable water [mm] for entire sounding: 7.76
 
  
- 72274 TUS Tucson Observations at 12Z 19 Apr 2016 
+ 72274     19 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -3028,7 +3028,7 @@ Pres [hPa] of the Lifted Condensation Level: 638.99
 Precipitable water [mm] for entire sounding: 6.62
 
  
- 72274 TUS Tucson Observations at 12Z 20 Apr 2016 
+ 72274     20 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -3194,7 +3194,7 @@ Pres [hPa] of the Lifted Condensation Level: 604.83
 Precipitable water [mm] for entire sounding: 6.76
 
  
- 72274 TUS Tucson Observations at 12Z 21 Apr 2016 
+ 72274     21 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -3357,7 +3357,7 @@ Pres [hPa] of the Lifted Condensation Level: 587.71
 Precipitable water [mm] for entire sounding: 6.31
 
  
- 72274 TUS Tucson Observations at 12Z 22 Apr 2016 
+ 72274     22 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -3504,7 +3504,7 @@ Pres [hPa] of the Lifted Condensation Level: 589.07
 Precipitable water [mm] for entire sounding: 10.06
 
  
- 72274 TUS Tucson Observations at 12Z 23 Apr 2016 
+ 72274     23 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -3656,7 +3656,7 @@ Pres [hPa] of the Lifted Condensation Level: 704.26
 Precipitable water [mm] for entire sounding: 14.22
 
  
- 72274 TUS Tucson Observations at 12Z 24 Apr 2016 
+ 72274     24 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -3825,7 +3825,7 @@ Pres [hPa] of the Lifted Condensation Level: 730.56
 Precipitable water [mm] for entire sounding: 9.44
 
  
- 72274 TUS Tucson Observations at 12Z 25 Apr 2016 
+ 72274     25 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -3991,7 +3991,7 @@ Pres [hPa] of the Lifted Condensation Level: 735.35
 Precipitable water [mm] for entire sounding: 12.36
 
  
- 72274 TUS Tucson Observations at 12Z 26 Apr 2016 
+ 72274     26 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -4167,7 +4167,7 @@ Pres [hPa] of the Lifted Condensation Level: 659.47
 Precipitable water [mm] for entire sounding: 8.98
 
  
- 72274 TUS Tucson Observations at 12Z 27 Apr 2016 
+ 72274     27 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -4328,7 +4328,7 @@ Pres [hPa] of the Lifted Condensation Level: 689.95
 Precipitable water [mm] for entire sounding: 9.80
 
  
- 72274 TUS Tucson Observations at 12Z 28 Apr 2016 
+ 72274     28 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -4494,7 +4494,7 @@ Pres [hPa] of the Lifted Condensation Level: 631.17
 Precipitable water [mm] for entire sounding: 7.03
 
  
- 72274 TUS Tucson Observations at 12Z 29 Apr 2016 
+ 72274     29 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
@@ -4669,7 +4669,7 @@ Pres [hPa] of the Lifted Condensation Level: 721.51
 Precipitable water [mm] for entire sounding: 11.06
 
  
- 72274 TUS Tucson Observations at 12Z 30 Apr 2016 
+ 72274     30 Apr 2016 
 -----------------------------------------------------------------------------
    PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
     hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
