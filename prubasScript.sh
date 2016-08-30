@@ -6,12 +6,12 @@
 ## Login   <maparedes@ltsp155.example.com>
 ## 
 ## Started on  Thu Aug 25 11:16:06 2016 Martin Alejandro Paredes Sosa
-## Last update Time-stamp: <2016-ago-26.viernes 12:20:19 (maparedes)>
+## Last update Time-stamp: <2016-ago-30.martes 11:13:23 (maparedes)>
 ##
 IFS=":"
 LOOPY=2016
 LISTM="4"
-LISTD="1:2:3:4:5:6:7:8:9:10:11:12:13:14:15:16:17:18:19:20:21:22:23:24:25:26:27:28:29:30"
+LISTD="1"
  
 # Script para el año 2016, dentro del URL:  YEAR=2016
 # Solo el sondeo de las 12Z

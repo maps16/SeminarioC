@@ -6,7 +6,7 @@
 ## Login   <maparedes@ltsp155.example.com>
 ## 
 ## Started on  Fri Aug 26 09:37:21 2016 Martin Alejandro Paredes Sosa
-## Last update Time-stamp: <2016-ago-26.viernes 12:32:28 (maparedes)>
+## Last update Time-stamp: <2016-ago-30.martes 11:15:43 (maparedes)>
 ##
 ##./prubasScript.sh
 
@@ -21,8 +21,8 @@ H="12"
 for i in $LISTM ; do
     for j in $LISTD ; do
 	cat "sounding?region=naconf&TYPE=TEXT%3ALIST&YEAR=2016&MONTH=$i&FROM=$j$H&TO=$j$H&STNM=72274" >> "allData"
-	echo "listo"
+	echo "Yep"
 	/bin/sleep 2
     done
 done
-
+echo "Listo"
